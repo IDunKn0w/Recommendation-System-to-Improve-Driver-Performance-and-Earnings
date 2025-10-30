@@ -6,6 +6,7 @@ Real-world taxi trip data provided by LTA. Consists of features such as vehicle 
 
 # Overview:
 ## Data Preprocessing
+  - Data cleaning and feature engineering
 ## Recommendation System
   - Supply-Demand gap prediction model
   - Dynamic Earning Calculator
