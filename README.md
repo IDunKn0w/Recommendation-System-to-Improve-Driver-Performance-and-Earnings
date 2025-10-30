@@ -1,5 +1,5 @@
 # Introduction
-Designed and implemented a recommendation system by designing a simple algorithm, making use of reinforcement learning, as an FYP at NTU.
+Designed and implemented a recommendation system by using a simple algorithm and making use of reinforcement learning as an FYP at NTU.
 
 # Training data:
 Real-world taxi trip data provided by LTA. Consists of features such as vehicle id, start and end coordinates, duration and distance of trip, and more.
